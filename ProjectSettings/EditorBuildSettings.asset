@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/PlanarReflections/Example/PlanarExampleScene.unity
+    path: Assets/PlanarReflections/Example/RecursiveMaxSettings_PlanarExampleScene.unity
     guid: 1810ac84de7b94a45a51abb01888158c
   m_configObjects: {}

@@ -23,7 +23,7 @@ public class RecursiveReflectionControl : MonoBehaviour
      [Range(1, 10)]
          public int pixelLightRecursiveCutoff = 1;
          [Space]
-    [Header("STEP #3 - Recursive Planar Reflection Component Setup")]
+    [Header("EXPERIMENTAL -- STEP #3 - Recursive Planar Reflection Component Setup")]
    public bool recursiveReflectionGroups;
    public int recursiveGroup = 1;
     [Range(1, 5)]

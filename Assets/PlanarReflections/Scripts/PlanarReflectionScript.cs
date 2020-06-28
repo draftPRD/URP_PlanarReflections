@@ -16,7 +16,7 @@ public class PlanarReflectionScript : MonoBehaviour
     private Camera TargetCamera;
     private ScriptableRenderContext TargetContext;
 
-   
+   [HideInInspector]
     public Camera thisCamera;
     private Camera _entityAttachedCam;
     private static EntityArchetype _cameraArchetype;
