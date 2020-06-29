@@ -63,7 +63,7 @@ the desired reflection angle, and feed it to a material property with a global s
 
 ## Advanced Setup (Recursion, Questionable Performance, Experimental)
 
-If the user does however require recursion, experimental support is provided via tha Recursion Control script:
+If the user does however require recursion, experimental support is provided via the Recursion Control script:
 <br>
 <br>
 <p align="center"><img width=40% src="https://github.com/Macleodsolutions/WMPortfolio/blob/master/planar9.PNG"><img width=40% src="https://github.com/Macleodsolutions/WMPortfolio/blob/master/planar10.PNG"></p>
