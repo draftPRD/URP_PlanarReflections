@@ -4,6 +4,12 @@
 
 ## Planar Reflections in Unity's URP
 
+Full .unitypackage here: https://github.com/Macleodsolutions/URP_PlanarReflections/releases/download/v0.2/URP_PlanarReflections.unitypackage
+<br>
+<br>
+Requires Entities Package.
+<br>
+<br>
 FAST, easy to use planar reflections for Unity's Universal Render Pipeline.
 Example scenes provided demonstrate ShaderGraph setup and Min/Max settings.
 Using DOTS, optimized for the URP. Experimental support for recursive reflections.
@@ -57,7 +63,7 @@ the desired reflection angle, and feed it to a material property with a global s
 
 ## Advanced Setup (Recursion, Questionable Performance, Experimental)
 
-If the user does however require recursion, experimental support is provided via tha Recursion Control script:
+If the user does however require recursion, experimental support is provided via the Recursion Control script:
 <br>
 <br>
 <p align="center"><img width=40% src="https://github.com/Macleodsolutions/WMPortfolio/blob/master/planar9.PNG"><img width=40% src="https://github.com/Macleodsolutions/WMPortfolio/blob/master/planar10.PNG"></p>
