@@ -81,6 +81,6 @@ then readd with desired values. This is not optimal behaviour and will be addres
   Finally, we see the same settings as our previous example, running in a recursive fashion. Even with the advantages that DOTS brings this is still a costly operation.
   <br>
   <br>
-  Questions? Feature Requests? PRs? Get it touch! I'm also available at contact@wmacleod.me, and you can check our more of my work at https://www.wmacleod.me
+  Questions? Feature Requests? PRs? Get it touch! I'm also available at contact@wmacleod.me, and you can check out more of my work at https://www.wmacleod.me
   
 
