@@ -13,7 +13,7 @@ Requires Entities Package.
 FAST, easy to use planar reflections for Unity's Universal Render Pipeline.
 Example scenes provided demonstrate ShaderGraph setup and Min/Max settings.
 Using DOTS, optimized for the URP. Experimental support for recursive reflections.
-Based on the Board Attack Demo located here: https://github.com/Verasl/BoatAttack
+Based on the Boat Attack Demo located here: https://github.com/Verasl/BoatAttack
 
 <p align="center"><img width=80% src="https://github.com/Macleodsolutions/WMPortfolio/blob/master/planar1.jpg"></p>
 
