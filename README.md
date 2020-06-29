@@ -5,7 +5,7 @@
 ## Planar Reflections in Unity's URP
 
 Full .unitypackage here: https://github.com/Macleodsolutions/URP_PlanarReflections/releases/download/v0.2/URP_PlanarReflections.unitypackage
-
+Requires Entities Package.
 FAST, easy to use planar reflections for Unity's Universal Render Pipeline.
 Example scenes provided demonstrate ShaderGraph setup and Min/Max settings.
 Using DOTS, optimized for the URP. Experimental support for recursive reflections.
